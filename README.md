@@ -1,7 +1,7 @@
 # english-dictionary
 A dictionary database containing definitions and examples for over 50,000 English words. This data was dumped from the [Free Dictionary API](https://dictionaryapi.dev/) using [this word list](http://www.mieliestronk.com/wordlist.html).
 
-### [Download from Releases](/)
+### [Download from Releases](https://github.com/CyberGen49/english-dictionary/releases)
 
 ## Database structure
 ### Table `word_list`
